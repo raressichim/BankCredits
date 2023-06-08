@@ -1,0 +1,32 @@
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\bin\Debug\Proiect PAW-Sichim Rares 1059E.exe.config
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\bin\Debug\Proiect PAW-Sichim Rares 1059E.exe
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\bin\Debug\Proiect PAW-Sichim Rares 1059E.pdb
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.AssemblyReference.cache
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.SuggestedBindingRedirects.cache
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.Properties.Resources.resources
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.GenerateResource.cache
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.CoreCompileInputs.cache
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.exe
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.pdb
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.ClientDataForm.resources
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.CreditDataForm.resources
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.RegistrationForm.resources
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.DebtForm.resources
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.DatabaseForm.resources
+C:\Users\rares\Desktop\Proiect PAW-Sichim Rares 1059E\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.ChartForm.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\bin\Debug\Proiect PAW-Sichim Rares 1059E.exe.config
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\bin\Debug\Proiect PAW-Sichim Rares 1059E.exe
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\bin\Debug\Proiect PAW-Sichim Rares 1059E.pdb
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.AssemblyReference.cache
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.SuggestedBindingRedirects.cache
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.ChartForm.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.ClientDataForm.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.CreditDataForm.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.DatabaseForm.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.DebtForm.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.Properties.Resources.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect_PAW_Sichim_Rares_1059E.RegistrationForm.resources
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.GenerateResource.cache
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.csproj.CoreCompileInputs.cache
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.exe
+C:\Users\rares\Desktop\C#_project\Proiect PAW-Sichim Rares 1059E\obj\Debug\Proiect PAW-Sichim Rares 1059E.pdb
